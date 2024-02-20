@@ -1,0 +1,16 @@
+{
+  "name": "banco_rocch",
+  "version": "1.0.0",
+  "description": "Sistema de gerenciamento de contas bancárias",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/kaynann/"
+  },
+  "author": "Kaynan",
+  "license": "ISC",
+  "type": "module"
+}
